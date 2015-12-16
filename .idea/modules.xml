@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Textbook_1215.iml" filepath="$PROJECT_DIR$/Textbook_1215.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p309/p309.iml" filepath="$PROJECT_DIR$/p309/p309.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p314/p314.iml" filepath="$PROJECT_DIR$/p314/p314.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p318/p318.iml" filepath="$PROJECT_DIR$/p318/p318.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p320/p320.iml" filepath="$PROJECT_DIR$/p320/p320.iml" />
+    </modules>
+  </component>
+</project>
